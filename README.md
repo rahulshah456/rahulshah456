@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/rahulshah456/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/linkedin-0A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=32>
   </a> 
-  <a href="https://play.google.com/store/apps/developer?id=Droid2Developers" target="_blank" rel="noopener noreferrer">
+  <a href="https://play.google.com/store/apps/dev?id=9160422290227698545" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/googleplay-414141.svg?&style=for-the-badge&logo=googleplay&logoColor=white" height=32>
   </a> 
   <a href="https://dribbble.com/rahulshah456" target="_blank" rel="noopener noreferrer">
