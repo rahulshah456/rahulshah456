@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/rahulshah456/rahulshah456/main/header_white.png" alt="Mokkapps GitHub README header image">
+<img src="https://raw.githubusercontent.com/rahulshah456/rahulshah456/main/header.png" alt="Mokkapps GitHub README header image">
 
 <p>
   <a href="https://www.linkedin.com/in/rahulshah456/" target="_blank" rel="noopener noreferrer">
